@@ -1,5 +1,5 @@
 # add-pseudo-withjs
-Add pseudo content or background with JS and jQuery
+Add pseudo content or background with JS and jQuery without reloading the DOM
 
 In this example I'll add SVG to pseudo-element background:
 ```javascript
